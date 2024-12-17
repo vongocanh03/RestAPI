@@ -23,17 +23,15 @@
 	  {
 		  "id":1,
 		  "username": "anh",
-		  "passworld":"123456",
+		  "passworld":"123456"
 		  
 	  },
 	  {
 		  "id":2,
 		  "username": "tài",
-		  "passworld":"1234567",
+		  "passworld":"1234567"
 		  
-	  },
-	  ],
-    "profile": {
-      "name": "typicode"
-    }
+	  }
+	  ]
+   
   }
