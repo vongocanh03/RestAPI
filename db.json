@@ -23,13 +23,13 @@
 	  {
 		  "id":1,
 		  "username": "anh",
-		  "passworld":"123456"
+		  "password":"123456"
 		  
 	  },
 	  {
 		  "id":2,
 		  "username": "tài",
-		  "passworld":"1234567"
+		  "password":"1234567"
 		  
 	  }
 	  ]
